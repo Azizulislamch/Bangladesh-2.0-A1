@@ -28,18 +28,58 @@ body {
     font-family: Fira Sans;
     font-weight: bold;
     font-size: 32px;
-    margin: 30px;
+    margin: 30px 0;
 }
 
 .btn-outline {
-    margin: 24px;
+    margin: 24px 0;
     padding: 15px 30px;
     border-radius: 8px;
     border: 2px solid #006A50;
     color: #006A50;
     font-family: Fira Sans;
-    font-weight: bold;
+    font-weight: 600;
     font-size:18px;
     cursor: pointer;
 }
 
+
+/* ===== Hero Section ===== */
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 50px;
+    background-color: rgba(198, 228, 214, 1);
+    border-radius: 24px;
+    margin-bottom: 80px;
+    padding: 80px 40px;
+}
+
+.hero-left h3 {
+    color: rgba(14, 14, 14, 0.5);
+    font-family: Fira Sans;
+    font-weight: medium;
+    font-size: 24px;
+    margin-bottom: 16px;
+}
+
+.hero-left p {
+    color: #0E0E0E;
+    font-size: 56px;
+    font-family: Fira Sans;
+    font-weight: bold;
+    margin-bottom: 24px;
+}
+
+.hero-btn {
+    border: none;
+    border-radius: 8px;
+    background-color: #006A50;
+    color: #FFFFFF;
+    font-size: 18px;
+    font-family: Fira Sans;
+    font-weight: medium;
+    padding: 17px 34px;
+    cursor: pointer;
+}
