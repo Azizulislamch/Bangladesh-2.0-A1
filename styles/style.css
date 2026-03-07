@@ -459,3 +459,39 @@ table tbody td {
 }
 
 
+/* ===== Newsletter Section ===== */
+.news-letter-section {
+    padding: 50px 10px;
+    text-align: center;
+    border-radius: 24px;
+    background: rgb(198, 228, 214);
+}
+
+.subs-btn {
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center; 
+    padding: 15px 30px;
+    border: none;
+    border-radius: 0px 8px 8px 0px;
+    color: white;
+    background: rgb(0, 106, 80);
+}
+
+.subscribe {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-bottom: 25px;
+}
+
+#subscribe {
+    width: 40%;
+    text-align: left;
+    padding-left: 20px;
+    border: none;
+    font-size: 16px;
+    font-weight: normal;
+    color: rgb(14, 14, 14, .3);
+    border-radius: 8px 0px 0px 8px;
+}
