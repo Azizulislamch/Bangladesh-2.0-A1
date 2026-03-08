@@ -68,9 +68,6 @@ Bangladesh-2.0-A1
 
 ---
 
-
----
-
 ## 📱 Responsive Design
 
 This project is designed to work smoothly on:
@@ -96,15 +93,37 @@ This project helped practice:
 
 ---
 
+## 🧠 Get Started (Development)
+
+### 1. Clone the repo
+```bash
+git clone https://github.com/Azizulislamch/Bangladesh-2.0-A1.git
+cd Bangladesh-2.0-A1
+```
+
+### 2. Open
+
+You can open index.html directly in your browser, OR use a live server tool such as VS Code Live Server.
+
+---
+
+## 📄 License
+
+This project is open source under the MIT License. ❤️
+
+---
+
 ## 👨‍💻 Author
 
 **Azizul Islam**
 
-🔗 GitHub:  
-https://github.com/Azizulislamch
+🔗 GitHub: https://github.com/Azizulislamch <br>
+🔗 LinkedIn: https://www.linkedin.com/in/azizul-islam-37b804246 <br>
+🔗 Codeforces: https://codeforces.com/profile/azizulislamch <br>
+🔗 Facebook: https://www.facebook.com/share/1Nsfwg4UN5/ <br>
 
 ---
 
 ## ⭐ Support
 
-If you like this project, consider giving it a **⭐ star** on GitHub!
+If you find this repository helpful, feel free to star it!
