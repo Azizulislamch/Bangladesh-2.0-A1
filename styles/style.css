@@ -279,11 +279,12 @@ section {
 
 
 /* ===== Opinion Section ===== */
-.opinion-table {
+.table-container {
     background-color: white;
     text-align: center;
     padding: 32px;
     border-radius: 16px;
+    overflow-x: auto;
 }
 
 table {
@@ -293,6 +294,7 @@ table {
 
 table td {
     padding: 20px;
+    word-break: break-word;
 }
 
 table thead td {
@@ -319,6 +321,9 @@ table tbody td {
     text-align: center;
     border: 1px solid rgb(14, 14, 14);
     border-radius: 4px;
+
+    width: 100%;
+    max-width: 180px;
 }
 
 .td1 {
@@ -668,10 +673,6 @@ footer hr {
         width: 100%;
     }
 
-    /* Option Table */
-    .opinion-table {
-        padding: 30px;
-    }
 
     /* donate buttons */
     .donate-amount {
